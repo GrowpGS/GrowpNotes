@@ -1,23 +1,23 @@
 # GrowpNotes
-Projeto que pretende ser uma plataforma de conhcimento de programação e ti, 
-idealizado e criado pela GrowpStutios
+Project that aims to be a programming and IT knowledge platform, 
+designed and created by GrowpStutios
 
 ## GrowpStudios
-Somos apenas dois jovens amantes de technologia e gostariamos de 
-desenvolder projetos que ajudaram pessoas a adiquirir mais conhecimento 
-na area de Technologia, com video aulas tutoriais e documentação em softwares
-desenvolvidos por nos.
+We are just two young technology lovers and we would like to 
+develop projects that will help people acquire more knowledge 
+in the area of ​​Technology, with video tutorial classes and software documentation
+developed by us.
 
-### Ajuda
-Caso você queira me ajudar com alguma feature ou algum bug é só me 
-chamar no Discord: growp_gs
-Caso queira ajudar com alguma doação disponibilizaremos ao longo do tempo
+### Help
+If you want to help me with a feature or bug, just let me know. 
+call on Discord: growp_gs
+If you would like to help with a donation, we will make it available over time.
 
-### Futuro
-No futuro esse website ficara disponivel na web, e com sistema 
-back-end
+### Future
+In the future, this website will be available on the web, and with a system 
+backend
 
-### Descrição de Variaveis
+### Variable Description
 
 
-### Descrição de Funções
+### Function Description
