@@ -8,6 +8,8 @@ develop projects that will help people acquire more knowledge
 in the area of ​​Technology, with video tutorial classes and software documentation
 developed by us.
 
+#
+
 ### Help
 If you want to help me with a feature or bug, just let me know. 
 call on Discord: growp_gs
