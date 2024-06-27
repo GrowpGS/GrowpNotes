@@ -2,6 +2,8 @@
 Project that aims to be a programming and IT knowledge platform, 
 designed and created by GrowpStutios
 
+In this project we are using technologies: React, Js, Electron
+
 ## GrowpStudios
 We are just two young technology lovers and we would like to 
 develop projects that will help people acquire more knowledge 
