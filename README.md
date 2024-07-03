@@ -20,8 +20,3 @@ If you would like to help with a donation, we will make it available over time.
 ### Future
 In the future, this website will be available on the web, and with a 
 backend system 
-
-### Variable Description
-
-
-### Function Description
