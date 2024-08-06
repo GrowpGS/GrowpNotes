@@ -1,6 +1,6 @@
 # GrowpNotes
 Project that aims to be a programming and IT knowledge platform, 
-designed and created by GrowpStutios
+designed and created by GrowpStudios
 
 In this project we are using technologies: React, Js, Electron
 
