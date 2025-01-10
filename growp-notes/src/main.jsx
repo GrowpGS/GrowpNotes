@@ -1,7 +1,7 @@
 // CSS
 import './index.css'
 
-// React dependences
+// React
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
